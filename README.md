@@ -56,6 +56,3 @@ In each of these projects, I apply a **Sociological Research Framework**. I don'
 
 ---
 **[View Professional Certification & Credentials on LinkedIn](https://www.linkedin.com/in/elena-lebedeva-ub/)**
-
-
-### Project 10: [A/B testing: marketing events](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_marketing_events)
