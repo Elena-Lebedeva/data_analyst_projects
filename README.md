@@ -58,28 +58,4 @@ In each of these projects, I apply a **Sociological Research Framework**. I don'
 **[View Professional Certification & Credentials on LinkedIn](https://www.linkedin.com/in/elena-lebedeva-ub/)**
 
 
-
-
-### Final project: [Bank Customer Segmentation](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/bank_customer_segmentation)
-
-### Machine Learning project: [Churn Prediction model for Fitness Centers clients](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/churn_prediction_model)
-
-### Project 1: [Research on the reliability of bank lending borrowers](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/bank_borrowers_reliability)
-
-### Project 2:  [Real estate market analysis: case study](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/real_estate)
-
-### Project 3: [Determination of an optimal tariff for a telecom company](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/telecom)
-
-### Project 4:  [Analysis of the patterns which determine the success of video games](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/gamedev)
-
-### Project 5: [Analysis of the airlines demand](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/airlines_demand)
-
-### Project 6: [Marketing cost optimization](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/marketing_cost_optimization)
-
-### Project 7: [A/B testing: е-commerce revenue](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_e-commerce)
-
-### Project 8: [Catering market research](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/catering_market_research)
-
-### Project 9: [Mobile App Behavior Analytics](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_mobile_app)
-
 ### Project 10: [A/B testing: marketing events](https://github.com/Elena-Lebedeva/data_analyst_projects/tree/main/AB_testing_marketing_events)
